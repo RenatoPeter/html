@@ -29,3 +29,15 @@ Szín:
   Ki írva: green
 
 Hex colorokhoz segítséget nyújtó oldal: https://www.w3schools.com/colors/colors_picker.asp
+
+
+<body background="h3.gif"  háttérkép
+      bgcolor="grey"	   háttérszín
+      text="black"	   szövegszín
+      link="green"	   link színe
+      vlink="#0000ff"	   már használtuk ezt a linket
+      alink="black">       bevillan, ha erre kattintunk
+      leftmargin="25%"	   bal margó: 25%
+      rightmargin="25%"	   jobb margó: 25%
+      bottommargin="10"	   alsó margó: 10 pont
+      topmargin="50"	   felsó margó
