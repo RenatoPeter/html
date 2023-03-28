@@ -14,6 +14,8 @@ Tab/Shift Tab - kijelölt területet jobbra/balra csúsztatja
 	<meta http-equit="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Ez a címsor szövege</title>
+	<link rel="stylesheet" href="example.ccs">
+	<script src="x.js"></script>
 </head>
 <body>
 	ide írjuk a html utasításokat
