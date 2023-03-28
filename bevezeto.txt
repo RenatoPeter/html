@@ -1,3 +1,6 @@
+Segítség: https://www.w3schools.com/html/default.asp
+
+
 CTRL - új file
 CTRL + S - Mentés
 CTRL + C, V - Másolás, beillesztés
