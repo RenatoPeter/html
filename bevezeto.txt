@@ -1,6 +1,3 @@
-Segítség: https://www.w3schools.com/html/default.asp
-
-
 CTRL - új file
 CTRL + S - Mentés
 CTRL + C, V - Másolás, beillesztés
@@ -21,3 +18,14 @@ Tab/Shift Tab - kijelölt területet jobbra/balra csúsztatja
 	ide írjuk a html utasításokat
 </body>
 </html>
+
+
+<!.. ez megjegyzés -->
+<script>ide javascript utasításokat írhatunk</script>
+<...> ... </...> | tagok
+&nbsp | szóköz
+Szín: 
+  Hex color: #00FF00
+  Ki írba: green
+
+Hex colorokhoz segítséget nyújtó oldal: https://www.w3schools.com/colors/colors_picker.asp
