@@ -40,4 +40,4 @@ Hex colorokhoz segítséget nyújtó oldal: https://www.w3schools.com/colors/col
       leftmargin="25%"	   bal margó: 25%
       rightmargin="25%"	   jobb margó: 25%
       bottommargin="10"	   alsó margó: 10 pont
-      topmargin="50"	   felsó margó: 50
+      topmargin="50"	   felsó margó: 50 pont
