@@ -26,6 +26,6 @@ Tab/Shift Tab - kijelölt területet jobbra/balra csúsztatja
 &nbsp | szóköz
 Szín: 
   Hex color: #00FF00
-  Ki írba: green
+  Ki írva: green
 
 Hex colorokhoz segítséget nyújtó oldal: https://www.w3schools.com/colors/colors_picker.asp
