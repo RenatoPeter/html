@@ -1,0 +1,11 @@
+<b>Félkövér</b>
+<strong>Dőlt</strong>
+<i>Dőlt</i>
+<em>Kiemelt</em>
+<mark>Megjelölés</mark>
+<small>Kisebb</small>
+<del>Áthúzott</del>
+<ins>Aláhúzott</ins>
+<sub>Alsó index</sub>
+<sup>Felső index</sup>
+<u>Under Line</u>
