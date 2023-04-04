@@ -1,0 +1,6 @@
+Bekezdés formázás
+<h1></h1>                       - címsorok h1, h2, h3, h4, h, h6
+<p></p>                         - bekezdés
+<p align="center"></center>     - igazítás: középre (left/right/justify - balra/jobbra/sorkizárt)
+<center></center>               - középre igazít
+<br> </br>                      - új sor (Shift enter)
