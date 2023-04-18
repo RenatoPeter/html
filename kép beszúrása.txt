@@ -1,0 +1,10 @@
+<img src="http://kephelye.hu/keo.jpg" class="xxx" "  alt="xxx" " title="xxx">
+  
+   src lehet
+       - webcím
+       - útvonal
+   class          osztálykijelölő
+   id             azonosító kijelölő
+   alt            kép helyett ezt írja ki
+   title          ha egérrel rámutatunk, ezt írja ki!
+   width="100"    szélessége: képpont (%-ban is megadható)
