@@ -1,0 +1,4 @@
+<hr>                        vízszintes vonal
+    width="50%"             vízszintes méret
+    color="#555555"         szín
+    size=4"                 vastagság
